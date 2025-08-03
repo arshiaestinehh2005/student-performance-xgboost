@@ -37,20 +37,6 @@ The goal is to develop a predictive model that estimates a student’s academic 
 - scikit-learn
 - XGBoost
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/heart-disease-prediction-ml.git
-
-# 2. Navigate to the folder
-cd heart-disease-prediction-ml
-
-# 3. Install required libraries
-pip install -r requirements.txt
-
-# 4. Launch the notebook
-jupyter notebook heart_diseases_prediction.ipynb
 
 ✍ Author
 
